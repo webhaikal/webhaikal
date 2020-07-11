@@ -1,4 +1,16 @@
-### Hi there 👋
+# Haikal Izzuddin
+Hi, I'm Haikal-a freelance programmer based in Kuala Lumpur, Malaysia. I work with a lot of technologies and stacks. Feel free to contact me if you want to work on a project. A huge fan of tactical shooters and loves to join game jams.
+
+## My Projects
+- [Edukelas](https://edukelas.com/)
+- [Duamin](https://duamin.com/)
+- [DaftarQR](https://daftarqr.com/)
+- [Sarwa](https://appsarwa.com/)
+
+## Get In Touch
+- Twitter: https://twitter.com/haikalizz27
+- Instagram: https://instagram.com/haikalizz27
+
 
 <!--
 **webhaikal/webhaikal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

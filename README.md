@@ -6,6 +6,10 @@ Hi, I'm Haikal-a freelance programmer based in Kuala Lumpur, Malaysia. I work wi
 - [Duamin](https://duamin.com/)
 - [DaftarQR](https://daftarqr.com/)
 - [Sarwa](https://appsarwa.com/)
+- [Tajria](https://tajria.com/)
+- [AmanzMe](https://amanz.me)
+- [Setiyo](https://setiyo.com)
+- [Qryta](https://qryta.com)
 
 ## Get In Touch
 - Twitter: https://twitter.com/haikalizz27

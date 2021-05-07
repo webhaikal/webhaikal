@@ -10,6 +10,7 @@ Hi, I'm Haikal-a freelance programmer based in Kuala Lumpur, Malaysia. I work wi
 - [AmanzMe](https://amanz.me)
 - [Setiyo](https://setiyo.com)
 - [Qryta](https://qryta.com)
+- [Socl](https://socl.com)
 
 ## Get In Touch
 - Twitter: https://twitter.com/haikalizz27

@@ -1,34 +1,8 @@
-# Haikal Izzuddin
-Hi, I'm Haikal-a freelance programmer based in Kuala Lumpur, Malaysia. I work with a lot of technologies and stacks. Feel free to contact me if you want to work on a project. A huge fan of tactical shooters and loves to join game jams.
+# H
+Sometimes I do open source, sometimes I write code for enterprises
 
-## My Projects
-- [Edukelas](https://edukelas.com/)
-- [Duamin](https://duamin.com/)
-- [DaftarQR](https://daftarqr.com/)
-- [Sarwa](https://appsarwa.com/)
-- [Tajria](https://tajria.com/)
-- [AmanzMe](https://amanz.me)
-- [Setiyo](https://setiyo.com)
-- [Qryta](https://qryta.com)
-- [Socl](https://socl.com)
-- [khwn](https://khwn.my)
-
-## Get In Touch
-- Twitter: https://twitter.com/haikalizz27
-- Instagram: https://instagram.com/haikalizz27
-
-
-<!--
-**webhaikal/webhaikal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stuff I made
+- [Cereka](https://cereka.app): The _premier_ ebook platform in Malaysia
+- [Daun](https://daun.me): A Malaysian-focused social media app
+- [AmanzMe](https://amanz.me): Identity platform for Amanz
+- [Socl](https://socl.co): Linktree-clone made in 24 hours
